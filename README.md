@@ -12,7 +12,7 @@ Projeto para aprimorar conhecimentos em TypeScript e react, sistema de lista de 
 
 ## ⛏️ Instalação
 
-nstale as dependências do projeto Front-end com o comando Npm
+Instale as dependências do projeto Front-end com o comando Npm
 
 ```bash
     npm install
